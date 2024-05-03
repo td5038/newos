@@ -1,8 +1,6 @@
 # newos &nbsp; [![build-ublue](https://github.com/td5038/newos/actions/workflows/build.yml/badge.svg)](https://github.com/td5038/newos/actions/workflows/build.yml)
 
-See the [BlueBuild docs](https://blue-build.org/how-to/setup/) for quick setup instructions for setting up your own repository based on this template.
-
-After setup, it is recommended you update this README to describe your custom image.
+This is basically going to be my experimenting ground based on fedora for what to include in a dev environment that you can also game on
 
 ## Installation
 
